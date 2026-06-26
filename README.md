@@ -50,6 +50,7 @@ Add screenshots of:
 - Booking confirmation
 - Screenshot_20260626-225928.jpg
 - Admin dashboard
+- Screenshot_20260626-225913_1782495020327.jpg
 
 ## 🎥 Project Demonstration
 Add the link to your demo video here.
