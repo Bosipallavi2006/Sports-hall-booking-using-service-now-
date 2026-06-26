@@ -51,6 +51,7 @@ Add screenshots of:
 
 ## 🎥 Project Demonstration
 Add the link to your demo video here.
+VID-20260620-WA0003.mp4
 
 ## 🔮 Future Enhancements
 - Online payment integration
