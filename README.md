@@ -48,6 +48,7 @@ Add screenshots of:
 - Booking form
 - IMG-20260624-WA0009.jpg
 - Booking confirmation
+- Screenshot_20260626-225928.jpg
 - Admin dashboard
 
 ## 🎥 Project Demonstration
